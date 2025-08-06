@@ -47,7 +47,7 @@ Then:
 1. Create an account on [playit.gg](https://playit.gg)
 2. Add port `3389` (RDP)
 3. Copy the displayed IP and Port
-4. Copy the **secret path** displayed by Playit
+4. Terminal : playit secret-path 'Copy the **secret path** displayed by Playit'
 
 ---
 
